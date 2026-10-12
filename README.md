@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Zeid Ibraheem — Networks & Telecom · Systems · Self-hosting" />
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeid-ibraheem-82089b31b"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 <br />
 
