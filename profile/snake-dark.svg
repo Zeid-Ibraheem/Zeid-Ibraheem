@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="192" viewBox="0 0 880 192">
+  <rect x="0.5" y="0.5" width="879" height="191" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="440.0" y="90.0" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#7ee787">$ ./snake-dark.sh</text>
+  <text x="440.0" y="114.0" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">waiting for first run…</text>
+</svg>
