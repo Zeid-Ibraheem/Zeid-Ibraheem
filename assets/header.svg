@@ -48,12 +48,10 @@
 <rect x="2" y="45" width="790" height="333" fill="url(#fade)"/>
 <path d="M1 44H1199" stroke="#30363d" stroke-width="1.5"/>
 <circle cx="28" cy="23" r="6" fill="#30363d"/><circle cx="48" cy="23" r="6" fill="#30363d"/><circle cx="68" cy="23" r="6" fill="#30363d"/>
-<text x="600" y="28" text-anchor="middle" class="m" font-size="14" fill="#6e7681">zeid@hudhud: ~</text>
+<text x="600" y="28" text-anchor="middle" class="m" font-size="14" fill="#6e7681">zeid@ibraheem: ~</text>
 <text x="60" y="150" class="m" font-size="58" font-weight="700" letter-spacing="2" fill="#f0f6fc">ZEID IBRAHEEM</text>
 <text x="62" y="196" class="m" font-size="21" fill="#8b949e">Networks · Security · IT</text>
 <text x="62" y="232" class="m" font-size="17" fill="#6e7681">BUT R&amp;T at Nancy-Brabois</text>
-<text x="62" y="284" class="m" font-size="18"><tspan fill="#7ee787">[zeid@hudhud ~]$</tspan><tspan fill="#c9d1d9"> ping saba</tspan></text>
-<text x="62" y="310" class="m" font-size="15" fill="#8b949e">64 bytes from saba (10.27.20.22): icmp_seq=22 ttl=27 time=0.42 ms</text>
-<text x="62" y="336" class="m" font-size="18"><tspan fill="#7ee787">[zeid@hudhud ~]$</tspan><tspan fill="#c9d1d9" class="blink"> █</tspan></text>
+<text x="62" y="302" class="m" font-size="19"><tspan id="prompt" fill="#7ee787">[zeid@ibraheem ~]$</tspan><tspan id="tagline" fill="#c9d1d9"> optimize nearly everything.</tspan><tspan fill="#c9d1d9" class="blink"> █</tspan></text>
 <text x="1180" y="28" text-anchor="end" class="m" font-size="12" fill="#484f58">hudhud.mesh · 114 nodes · 3D · no JS</text>
 </svg>
