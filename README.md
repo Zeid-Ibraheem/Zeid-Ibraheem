@@ -22,9 +22,6 @@
 <p align="center">
   <img src="profile/streak.svg" height="170" alt="Contribution streak" />
 </p>
-<p align="center">
-  <img src="profile/isocalendar.svg" width="100%" alt="Isometric contribution calendar" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" />
