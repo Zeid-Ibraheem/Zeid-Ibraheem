@@ -2,7 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="Zeid Ibraheem — Networks · Security · IT" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,githubactions,html,css,js,flutter,dart&theme=dark" alt="Arch Linux, Linux, Bash, Git, GitHub Actions, HTML, CSS, JavaScript, Flutter, Dart" />
 </p>
 <p align="center">
@@ -27,4 +27,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile/snake.svg" />
   <img src="profile/snake.svg" width="100%" alt="Snake eating my contribution graph" />
-</picture>
+</picture> -->
