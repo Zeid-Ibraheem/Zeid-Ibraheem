@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Zeid Ibraheem — Networks · Security · IT" />
+  <img src="assets/header.svg?v=10" width="100%" alt="Zeid Ibraheem — Networks · Security · IT" />
 </p>
