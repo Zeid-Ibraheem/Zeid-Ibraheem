@@ -2,10 +2,9 @@
   <img src="assets/header.svg?v=1792319069" width="100%" alt="Zeid Ibraheem — Networks · Security · IT" />
 </p>
 
-<!-- À TOI : ta dictée remplacera ce paragraphe (3 phrases : ce qui te plaît dans les réseaux, ce que tu fais à côté, ce que tu cherches). -->
-Je suis en deuxième année de BUT Réseaux & Télécommunications, parcours Réseaux opérateurs et multimédia, après un an d'alternance comme développeur d'applications. À côté des cours, je monte mon homelab et je code les outils dont j'ai besoin, sous Arch Linux. J'aime comprendre comment les choses marchent, puis les optimiser.
+Je suis en 2e année de BUT Réseaux & Télécommunications, parcours ROM (Réseaux opérateurs et multimédia), après un an d'alternance comme développeur d'applications. En parallèle de mes études, je développe mon homelab et des applications sur mesure pour mon quotidien : elles sont toutes ici. J'aime le concret : créer des solutions qui optimisent les tâches et font gagner du temps.
 
-**Je cherche un stage de 10 semaines, du 12 avril au 18 juin 2027 : réseaux, systèmes, sécurité ou informatique (support, développement, web).**
+**Je cherche un stage de 10 semaines, du 12 avril au 18 juin 2027, en réseaux, télécoms ou informatique.**
 
 [Mon portfolio](https://zeid-ibraheem.github.io/portfolio-rt/) · [LinkedIn](https://www.linkedin.com/in/zeid-ibraheem11/)
 
@@ -21,6 +20,8 @@ Je suis en deuxième année de BUT Réseaux & Télécommunications, parcours Ré
 
 ## Ce que j'utilise
 
-- **Systèmes :** Linux (Arch au quotidien, Debian sur mon serveur), systemd, Bash
-- **Réseau :** SSH, VPN (Tailscale, basé sur WireGuard), Wake-on-LAN
-- **Code :** Python, Dart et Flutter, HTML, CSS, JavaScript, SQLite, Git
+- **Réseau :** switchs et routeurs Cisco, VLAN, Wi-Fi, DHCP, DNS, SSH, VPN (Tailscale, basé sur WireGuard), Wake-on-LAN
+- **Télécoms :** fibre optique, téléphonie IP
+- **Systèmes :** Linux (Arch au quotidien, Debian sur mon serveur), Windows, systemd, virtualisation
+- **Sécurité :** clés SSH, pare-feu, analyse du trafic (Wireshark, Nmap)
+- **Code :** Python, Java, Bash, Dart et Flutter, HTML, CSS, JavaScript, SQLite, Git
