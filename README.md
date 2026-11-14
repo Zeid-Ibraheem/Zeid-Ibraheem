@@ -3,9 +3,11 @@
 </p>
 
 <!-- À TOI : ta dictée remplacera ce paragraphe (3 phrases : ce qui te plaît dans les réseaux, ce que tu fais à côté, ce que tu cherches). -->
-Je suis en deuxième année de BUT Réseaux & Télécommunications, parcours Réseaux opérateurs et multimédia. À côté des cours, je monte mon homelab et je code les outils dont j'ai besoin, sous Arch Linux. J'aime comprendre comment les choses marchent, puis les optimiser.
+Je suis en deuxième année de BUT Réseaux & Télécommunications, parcours Réseaux opérateurs et multimédia, après un an d'alternance comme développeur d'applications. À côté des cours, je monte mon homelab et je code les outils dont j'ai besoin, sous Arch Linux. J'aime comprendre comment les choses marchent, puis les optimiser.
 
-**Je cherche un stage de 10 semaines en réseau ou télécom, du 12 avril au 18 juin 2027.**
+**Je cherche un stage de 10 semaines, du 12 avril au 18 juin 2027 : réseaux, systèmes, sécurité ou informatique (support, développement, web).**
+
+[Mon portfolio](https://zeid-ibraheem.github.io/portfolio-rt/) · [LinkedIn](https://www.linkedin.com/in/zeid-ibraheem11/)
 
 ## Mes projets
 
