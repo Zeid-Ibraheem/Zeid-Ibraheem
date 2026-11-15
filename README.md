@@ -6,6 +6,7 @@
 
 | Projet | En deux mots | Fait avec |
 |---|---|---|
+| [pc-transfer](https://github.com/Zeid-Ibraheem/pc-transfer) | Envoyer fichiers, dossiers et texte entre PC et téléphone, sans fil ni compte, avec reprise après coupure ; compatible LocalSend | Flutter, Kotlin, HTTPS/TLS, GitHub Actions |
 | [homelab-control](https://github.com/Zeid-Ibraheem/homelab-control) | Allumer, surveiller et piloter ma tour depuis mon téléphone, à travers le réseau partagé de ma résidence | Flutter, SSH, Bash, systemd, Wake-on-LAN, Tailscale |
 | [my-pdfs](https://github.com/Zeid-Ibraheem/my-pdfs) | Ma bibliothèque PDF, avec mon propre serveur de 200 Go | Flutter, Python, SQLite |
 | [le-27-gambetta](https://github.com/Zeid-Ibraheem/le-27-gambetta) | Le site d'un restaurant semi-gastronomique de Nancy | HTML, CSS, JavaScript |
