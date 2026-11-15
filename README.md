@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="assets/header.svg?v=1792319069" width="100%" alt="Zeid Ibraheem — Networks · Security · IT" />
-</p>
-
-Je suis en 2e année de BUT Réseaux & Télécommunications, parcours ROM (Réseaux opérateurs et multimédia), après un an d'alternance comme développeur d'applications. En parallèle de mes études, je développe mon homelab et des applications sur mesure pour mon quotidien : elles sont toutes ici. J'aime le concret : créer des solutions qui optimisent les tâches et font gagner du temps.
-
-**Je cherche un stage de 10 semaines, du 12 avril au 18 juin 2027, en réseaux, télécoms ou informatique.**
-
-[Mon portfolio](https://zeid-ibraheem.github.io/portfolio-rt/) · [LinkedIn](https://www.linkedin.com/in/zeid-ibraheem11/)
-
 ## Mes projets
 
 | Projet | En deux mots | Fait avec |
@@ -17,11 +7,3 @@ Je suis en 2e année de BUT Réseaux & Télécommunications, parcours ROM (Rése
 | [le-27-gambetta](https://github.com/Zeid-Ibraheem/le-27-gambetta) | Le site d'un restaurant semi-gastronomique de Nancy | HTML, CSS, JavaScript |
 | [portfolio-rt](https://github.com/Zeid-Ibraheem/portfolio-rt) | Mon portfolio de BUT R&T | HTML, CSS, JavaScript |
 | [cours-rt](https://github.com/Zeid-Ibraheem/cours-rt) | Mes révisions de cours, ajoutées à chaque séance | Markdown, Python |
-
-## Ce que j'utilise
-
-- **Réseau :** switchs et routeurs Cisco, VLAN, Wi-Fi, DHCP, DNS, SSH, VPN (Tailscale, basé sur WireGuard), Wake-on-LAN
-- **Télécoms :** fibre optique, téléphonie IP
-- **Systèmes :** Linux (Arch au quotidien, Debian sur mon serveur), Windows, systemd, virtualisation
-- **Sécurité :** clés SSH, pare-feu, analyse du trafic (Wireshark, Nmap)
-- **Code :** Python, Java, Bash, Dart et Flutter, HTML, CSS, JavaScript, SQLite, Git
